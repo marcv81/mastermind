@@ -27,7 +27,8 @@ GoogleTest
 Build
 -----
 
-    cmake CMakeLists.txt
+    cmake -H. -Bbuild
+    cd build/
     make
     ./runTests
 

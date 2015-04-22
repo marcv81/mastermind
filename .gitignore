@@ -1,9 +1,3 @@
 /.idea/
-/CMakeCache.txt
-/CMakeFiles
-/cmake_install.cmake
-/Makefile
-/libengine.a
-/runTests
-/doxygen_sqlite3.db
-/html/
+/build/
+/doxygen/
